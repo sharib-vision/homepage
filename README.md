@@ -7,3 +7,6 @@ Static academic homepage (single `index.html` + `assets/`), served with GitHub P
 
 Publications and citation counts from Google Scholar (Oct 2026); funding from ORCID.
 To enable: Settings → Pages → Deploy from branch → `main` / root.
+
+
+[visit page](https://sharib-vision.github.io/homepage/)
